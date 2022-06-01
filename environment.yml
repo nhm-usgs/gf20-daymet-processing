@@ -1,0 +1,14 @@
+name: "gf2dmproc"
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.9,<3.10
+  - pip
+  - jupyterlab
+  - nodejs
+  - hvplot
+  - geoviews
+  - cartopy
+  - "holoviews[recommended]"
+  - pip:
+    - gdptools==0.0.1
