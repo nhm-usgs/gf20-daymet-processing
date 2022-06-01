@@ -7,3 +7,4 @@ Processing scripts for GF 2.0 Alaska and Hawaii Daymet processing
 conda env create -f environment.yml
 conda activate gf2dmproc
 ```
+### Further documentation in check_results.ipynb
